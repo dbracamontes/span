@@ -19,6 +19,15 @@ mvn package
 ## Running App
 Installation steps is required before running the app. This is a spring boot application and the entry point is class src/main/java/SpanChallengeApplication.java.<br />
 For running the program is required to pass the full path for the file /Users/daniel.bracamontes/Desktop/Case_1_input.txt.
+
+The file needs to be in the below format
+Lions 3, Snakes 3
+Tarantulas 1, FC Awesome 0
+Lions 1, FC Awesome 1
+Tarantulas 3, Snakes 1
+Lions 4, Grouches 0
+Lions 4, Benfica 4
+
 ```bash
  cd target
  java -jar span-challenge-0.0.1-SNAPSHOT.jar "/Users/daniel.bracamontes/Desktop/Case_1_input.txt"
