@@ -20,13 +20,13 @@ mvn package
 Installation steps is required before running the app. This is a spring boot application and the entry point is class src/main/java/SpanChallengeApplication.java.<br />
 For running the program is required to pass the full path for the file /Users/daniel.bracamontes/Desktop/Case_1_input.txt.
 
-The file needs to be in the below format
-Lions 3, Snakes 3
-Tarantulas 1, FC Awesome 0
-Lions 1, FC Awesome 1
-Tarantulas 3, Snakes 1
-Lions 4, Grouches 0
-Lions 4, Benfica 4
+The file needs to be in the below format<br />
+Lions 3, Snakes 3<br />
+Tarantulas 1, FC Awesome 0<br />
+Lions 1, FC Awesome 1<br />
+Tarantulas 3, Snakes 1<br />
+Lions 4, Grouches 0<br />
+Lions 4, Benfica 4<br />
 
 ```bash
  cd target
